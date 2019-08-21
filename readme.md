@@ -14,6 +14,7 @@ I will be adding elements to this index every day. Be patient with me.
   - Selection Sort
   - Insertion Sort
   - Merge Sort
+  - Quick Sort
 - [ ] Searching
 - [ ] Singly Linked Lists
 - [ ] Doubly Linked Lists
