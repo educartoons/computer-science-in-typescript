@@ -1,0 +1,22 @@
+{
+  "name": "cs-javascript",
+  "version": "1.0.0",
+  "description": "A bunch of algorithms written in Typescript in order for being used in classes of Computer Science teaching.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/educartoons/computer-science-in-javascript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/educartoons/computer-science-in-javascript/issues"
+  },
+  "homepage": "https://github.com/educartoons/computer-science-in-javascript#readme",
+  "devDependencies": {
+    "typescript": "^3.5.3"
+  }
+}
