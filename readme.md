@@ -9,7 +9,9 @@ Feel free to use them. 🤓
 I will be adding elements to this index every day. Be patient with me.
 
 - [x] Sorting
-  - Bubblesort
+  - Bubble Sort
+  - Bubble Sort Optimized
+  - Selection Sort
 - [ ] Searching
 - [ ] Singly Linked Lists
 - [ ] Doubly Linked Lists
