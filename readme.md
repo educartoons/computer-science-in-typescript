@@ -13,6 +13,7 @@ I will be adding elements to this index every day. Be patient with me.
   - Bubble Sort Optimized
   - Selection Sort
   - Insertion Sort
+  - Merge Sort
 - [ ] Searching
 - [ ] Singly Linked Lists
 - [ ] Doubly Linked Lists
