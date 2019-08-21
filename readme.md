@@ -12,11 +12,14 @@ I will be adding elements to this index every day. Be patient with me.
   - Bubble Sort
   - Bubble Sort Optimized
   - Selection Sort
+  - Insertion Sort
 - [ ] Searching
 - [ ] Singly Linked Lists
 - [ ] Doubly Linked Lists
 - [ ] Stacks
 - [ ] Queues
+- [ ] Binary Search Trees
+- [ ] Binary Heaps
 
 ## Contact
 
