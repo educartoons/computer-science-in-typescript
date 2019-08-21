@@ -7,7 +7,6 @@ function insertionSort(arr: number[]): number[] {
     let j: number;
     for (j = i - 1; j >= 0 && arr[j] > currentVal; j--) {
       arr[j + 1] = arr[j];
-      console.log(arr);
     }
     arr[j + 1] = currentVal;
   }
