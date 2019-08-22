@@ -11,6 +11,7 @@ I will be adding elements to this index every day. Be patient with me.
 - [x] Recursion
   - Factorial (iteratively, recursively)
   - Product of array
+  - Fibonacci
 - [x] Sorting
   - Bubble Sort
   - Bubble Sort Optimized
