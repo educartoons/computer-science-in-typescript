@@ -3,6 +3,7 @@
 
 // Get the digit of the position i
 function getDigit(num: number, i: number) {
+  // The absolute number is devided by 10^ 0 if you need the first digit, 1 if you need the second digit and go on
   return Math.floor(Math.abs(num) / Math.pow(10, i)) % 10;
 }
 
