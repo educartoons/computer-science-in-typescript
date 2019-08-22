@@ -1,4 +1,5 @@
 // Quick Sort
+// The quicksort procedure was invented bu Hoare but the partition method described below is due to N. Lomuto.
 
 function quickSort(arr: number[]): number[] {
   // creating a copy from the array
