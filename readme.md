@@ -8,8 +8,9 @@ Feel free to use them. 🤓
 
 I will be adding elements to this index every day. Be patient with me.
 
-- Recursion
+- [x] Recursion
   - Factorial (iteratively, recursively)
+  - Product of array
 - [x] Sorting
   - Bubble Sort
   - Bubble Sort Optimized
