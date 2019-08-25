@@ -21,10 +21,11 @@ I will be adding elements to this index every day. Be patient with me.
   - Quick Sort
   - Radix Sort
 - [ ] Searching
-- [ ] Singly Linked Lists
+- [x] Singly Linked Lists
+  - Implementation
 - [ ] Doubly Linked Lists
-- [ ] Stacks
-  - 
+- [x] Stacks
+  - Stack using an array
 - [ ] Queues
 - [ ] Binary Search Trees
 - [ ] Binary Heaps
