@@ -24,6 +24,7 @@ I will be adding elements to this index every day. Be patient with me.
 - [ ] Singly Linked Lists
 - [ ] Doubly Linked Lists
 - [ ] Stacks
+  - 
 - [ ] Queues
 - [ ] Binary Search Trees
 - [ ] Binary Heaps
