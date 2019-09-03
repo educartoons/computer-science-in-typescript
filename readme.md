@@ -23,13 +23,14 @@ I will be adding elements to this index every day. Be patient with me.
 - [ ] Searching
 - [x] Singly Linked Lists
   - Implementation
-- [ ] Doubly Linked Lists
+- [x] Doubly Linked Lists
+  - Implementation
 - [x] Stacks
   - Stack using an array
 - [ ] Queues
 - [ ] Binary Search Trees
 - [ ] Binary Heaps
-- [ ] Common Problems
+- [x] Common Problems
   - A product array puzzle
 
 ## Contact
