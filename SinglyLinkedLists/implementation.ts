@@ -54,6 +54,8 @@ list.add(10);
 list.add(5);
 list.add(32);
 
-console.log(list);
+console.log(Array.from(list.values()));
+
+console.log(list.remove());
 
 console.log(Array.from(list.values()));
