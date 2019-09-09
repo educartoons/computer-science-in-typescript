@@ -30,6 +30,8 @@ I will be adding elements to this index every day. Be patient with me.
 - [ ] Queues
 - [ ] Binary Search Trees
 - [ ] Binary Heaps
+- [x] Dynamic Programming
+  - Fibonacci
 - [x] Common Problems
   - A product array puzzle
 
