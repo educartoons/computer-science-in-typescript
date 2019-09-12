@@ -32,6 +32,8 @@ I will be adding elements to this index every day. Be patient with me.
 - [ ] Binary Heaps
 - [x] Dynamic Programming
   - Fibonacci
+  - Triple Step
+  - Robot in a Grid
 - [x] Common Problems
   - A product array puzzle
 
