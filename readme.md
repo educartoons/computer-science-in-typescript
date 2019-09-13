@@ -28,7 +28,8 @@ I will be adding elements to this index every day. Be patient with me.
 - [x] Stacks
   - Stack using an array
 - [ ] Queues
-- [ ] Binary Search Trees
+- [x] Binary Search Trees
+  - Binary Tree (bst.ts)
 - [ ] Binary Heaps
 - [x] Dynamic Programming
   - Fibonacci
