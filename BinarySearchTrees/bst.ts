@@ -4,8 +4,8 @@ interface node<T>{
   right?: node<T>;
 }
 
-class BinarySearchTree<T>{
-  private root? : node<T> = undefined;
+export class BinarySearchTree<T>{
+  protected root? : node<T> = undefined;
 
   // Insert a node in the tree
   public insert(value: T){
@@ -61,10 +61,6 @@ class BinarySearchTree<T>{
     return false;
   }
 
-  public show(){
-    console.log(this);
-  }
-
   private forNode(value: T){
     return {
       value,
@@ -74,17 +70,3 @@ class BinarySearchTree<T>{
   }
 
 }
-
-let tree = new BinarySearchTree();
-
-tree.insert(20);
-tree.insert(15);
-tree.insert(5);
-tree.insert(4);
-tree.insert(3);
-tree.insert(7);
-tree.insert(21);
-tree.insert(45);
-tree.show();
-console.log(tree.find(7))
-console.log(tree.find(1));

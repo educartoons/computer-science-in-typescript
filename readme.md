@@ -30,6 +30,7 @@ I will be adding elements to this index every day. Be patient with me.
 - [ ] Queues
 - [x] Binary Search Trees
   - Binary Tree (bst.ts)
+  - Breadth First Search (Iterative)
 - [ ] Binary Heaps
 - [x] Dynamic Programming
   - Fibonacci
