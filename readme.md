@@ -31,7 +31,8 @@ I will be adding elements to this index every day. Be patient with me.
 - [x] Binary Search Trees
   - Binary Tree (bst.ts)
   - Breadth First Search (Iterative)
-  - Depth First Pre Order
+  - Deapth First Pre Order
+  - Deapth First Post Order
 - [ ] Binary Heaps
 - [x] Dynamic Programming
   - Fibonacci
