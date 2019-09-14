@@ -1,4 +1,4 @@
-import { BinarySearchTree } from './bst';
+import { BinarySearchTree } from './binary-tree';
 
 interface node<T>{
   value: T;
